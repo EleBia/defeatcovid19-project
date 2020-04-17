@@ -31,7 +31,7 @@ This is a live section with the updated state of onboarding
 | ASST FBF Sacco | Milano, Italy |  RX, ECOH, CD | 4 | March, 25th 2020 |
 | IRCCS Cà Granda Ospedale Maggiore Policlinico |Milano, Italy | RX, CD | 4 | March, 25th 2020 |
 | IRCCS Cà Granda Ospedale Maggiore Policlinico |Milano, Italy | RX, CD | 4 | March, 17th 2020 |
-| Ospedale Auxologico San Luca | Milano, Italy | RX, CD | 4 | March, 17th 2020 |
+| Ospedale Auxologico San Luca | Milano, Italy | RX, CD | 6 | March, 17th 2020 |
 | Policlinico di Pavia | Pavia, Italy | RX, CD | 3 | March, 23rd 2020 |
 | IRCCS Maugeri |Pavia, Italy | RX, CD | 3 | March, 26th 2020 |
 | ASST degli spedali civili di Brescia |  Brescia, Italy | RX, CD | 3 | March, 26th 2020 |
